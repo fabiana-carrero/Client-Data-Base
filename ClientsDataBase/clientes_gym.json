@@ -1,0 +1,19 @@
+{
+    "jesus_almeida": {
+        "Nombre": "Jesus",
+        "Apellido": "Almeida",
+        "Edad": "21",
+        "Fecha de Ingreso": "04/06/2026",
+        "Peso (kg)": "70",
+        "Altura (cm)": "168",
+        "Cintura (cm)": "44",
+        "Brazo (cm)": "25",
+        "Pecho (cm)": "120",
+        "Gluteos (cm)": "30",
+        "Pierna (cm)": "65",
+        "Enfermedades": "ninguna",
+        "Discapacidad": "ninguna",
+        "Ultimo Pago (DD/MM/AAAA)": "04/06/2026",
+        "foto_cedula": "cedula_jesus_almeida.jpg"
+    }
+}
